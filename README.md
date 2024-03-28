@@ -36,6 +36,6 @@ Docker Image: dnredson/p4flowforge
 	
 #Custom Protocol
 
-  generator.py --time <time> --mean <messages_per_second> --interface <output_interface> --protocol custom --custom <json_file>
+  	generator.py --time <time> --mean <messages_per_second> --interface <output_interface> --protocol custom --custom <json_file>
 
-  receiver.py --protocol custom --custom <json_file>
+  	receiver.py --protocol custom --custom <json_file>
