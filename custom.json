@@ -1,0 +1,8 @@
+{
+    "nome": "MeuProtocoloDinamico",
+    "campos": [
+        {"nome": "field1", "tipo": "IntField", "default": 123},
+        {"nome": "field2", "tipo": "StrField", "default": ""},
+        {"nome": "timestamp", "tipo": "IntField", "default": 0}
+    ]
+}
